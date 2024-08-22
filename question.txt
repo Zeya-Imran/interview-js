@@ -1,0 +1,24 @@
+Reverse an Array:
+
+Write a function that takes an array and returns a new array with the elements in reverse order.
+Find the Maximum Number in an Array:
+
+Write a function that takes an array of numbers and returns the maximum number.
+Remove Duplicates from an Array:
+
+Write a function that takes an array and returns a new array with duplicate elements removed.
+Sum of Array Elements:
+
+Write a function that takes an array of numbers and returns the sum of all the elements.
+Rotate Array:
+
+Write a function that rotates an array by k positions to the right. For example, rotating [1, 2, 3, 4, 5] by 2 positions would result in [4, 5, 1, 2, 3].
+Intersection of Two Arrays:
+
+Write a function that takes two arrays and returns an array of their intersection (common elements).
+Find the Second Largest Element in an Array:
+
+Write a function to find the second largest number in an array of numbers.
+Check for Palindrome Array:
+
+Write a function that checks if an array is a palindrome (reads the same forward and backward).

@@ -24,12 +24,16 @@ if (fruits.indexOf("banana") !== -1) {
 //Replacing Text in a String
 let sentence = "The quick brown fox jumps over the lazy dog";
 const word = "fox";
+const replaceWord = "cat";
 const index = sentence.indexOf(word);
 if (index !== -1) {
   sentence =
-    sentence.slice(0, index) + "cat" + sentence.slice(index + word.length);
+    sentence.slice(0, index) +
+    replaceWord +
+    sentence.slice(index + word.length);
 }
 console.log(sentence); // Output: "The quick brown cat jumps over the lazy dog"
+console.log("----------------------------------------------------------------");
 
 //searching for substring
 (() => {

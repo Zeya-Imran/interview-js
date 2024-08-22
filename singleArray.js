@@ -7,5 +7,5 @@ let arr = [[[1, 2, 3]], [[50, 60, 70]], [[10, 20]], [[100, 200]]];
 let flattenedArray = arr.flat(Infinity);
 console.log(flattenedArray);
 
-const arr1 = arr.toString().map(Number);
+const arr1 = arr1.toString().split(",").map(Number);
 console.log(arr1);
